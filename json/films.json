@@ -1,0 +1,60 @@
+{
+    "films": [
+        {
+            "id": 1,
+            "title": "Get rich or die trying",
+            "poster": "https://www.pastposters.com/cw3/assets/product_full/Mini-Quad-Poster/get-rich-or-die-tryin-cinema-mini-quad-movie-poster-(1).jpg",
+            "year": 2005,
+            "length": "2h 14m",
+            "director": "Jim Sheridan",
+            "synopsis": "Un huérfano, un chico de la calle, se convierte en un poderoso traficante de drogas, pero lo intenta dejar todo para perseguir una carrera musical."
+
+        },
+        {
+            "id": 2,
+            "title": "Straight Outta Compton",
+            "poster": "https://i.ebayimg.com/images/g/AQkAAOSwcsJgGqYl/s-l1200.jpg",
+            "year": 2015,
+            "length": "2h 27m",
+            "director": "F. Gary Gray",
+            "synopsis": "A mediados de los años 80, en las peligrosas calles de la ciudad californiana nace N.W.A. (Niggas With Attitudes / Negros con orgullo), combativa banda de 'hip hop' y pionera del 'gangsta rap'. Estás a punto de presenciar la fuerza de la sabiduría callejera."
+
+        },
+        {
+            "id": 3,
+            "title": "8 Mile",
+            "poster": "https://m.media-amazon.com/images/S/pv-target-images/fa8a173332637620d4ad81453a8bd8e87c198bb47a86f0bde36ca95768268937.jpg",
+            "year": 2002,
+            "length": "1h 50m",
+            "director": "Curtis Hanson",
+            "synopsis": "Un joven de Detroit lucha para abrirse camino en el mundo del rap enfrentando problemas personales y sociales en una comunidad difícil."
+        },
+        {
+            "id": 4,
+            "title": "Notorious",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMjA3ODUwOTg2NF5BMl5BanBnXkFtZTcwNjgwOTUwMg@@._V1_FMjpg_UX1000_.jpg",
+            "year": 2009,
+            "length": "2h 2m",
+            "director": "George Tillman Jr.",
+            "synopsis": "La vida y carrera de The Notorious B.I.G., uno de los raperos más icónicos de todos los tiempos, quien marcó la historia del hip-hop antes de su trágica muerte."
+        },
+        {
+            "id": 5,
+            "title": "Juice",
+            "poster": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/1992/1/w1280/8gP24JtMp4GTZ8BfoCIDrnAztKB.jpg",
+            "year": 1992,
+            "length": "1h 35m",
+            "director": "Ernest R. Dickerson",
+            "synopsis": "Cuatro amigos de Harlem luchan por respeto y poder en las calles, y sus vidas cambian cuando la violencia entra en sus vidas."
+        },
+        {
+            "id": 6,
+            "title": "Hustle & Flow",
+            "poster": "https://pics.filmaffinity.com/Hustle_Flow-209530000-large.jpg",
+            "year": 2005,
+            "length": "1h 56m",
+            "director": "Craig Brewer",
+            "synopsis": "Un proxeneta de Memphis sueña con convertirse en rapero y busca dejar atrás su vida en las calles, enfrentando numerosos desafíos personales."
+        }
+    ]
+}
