@@ -8,7 +8,6 @@
             "length": "2h 14m",
             "director": "Jim Sheridan",
             "synopsis": "Un huérfano, un chico de la calle, se convierte en un poderoso traficante de drogas, pero lo intenta dejar todo para perseguir una carrera musical."
-
         },
         {
             "id": 2,
@@ -18,7 +17,6 @@
             "length": "2h 27m",
             "director": "F. Gary Gray",
             "synopsis": "A mediados de los años 80, en las peligrosas calles de la ciudad californiana nace N.W.A. (Niggas With Attitudes / Negros con orgullo), combativa banda de 'hip hop' y pionera del 'gangsta rap'. Estás a punto de presenciar la fuerza de la sabiduría callejera."
-
         },
         {
             "id": 3,
@@ -55,6 +53,42 @@
             "length": "1h 56m",
             "director": "Craig Brewer",
             "synopsis": "Un proxeneta de Memphis sueña con convertirse en rapero y busca dejar atrás su vida en las calles, enfrentando numerosos desafíos personales."
+        },
+        {
+            "id": 7,
+            "title": "How high",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYzFkMDNkMzItZTM4YS00MjAxLWI1OWItMjJjMDI3NTMwNWYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "year": 2001,
+            "length": "1h 35m",
+            "director": "Jesse Dylan",
+            "synopsis": "Jamal y Silas son dos amigos que fuman una hierba mágica que les convierte en tremendamente listos y les permite entrar en Harvard. Sin embargo, una vez dentro de la universidad, sus existencias de hierba empiezan a acabarse."
+        },
+        {
+            "id": 8,
+            "title": "Friday",
+            "poster": "https://images.moviesanywhere.com/0f0eda9096f7023c33fae1fcd0ac17b2/69c9fa37-d4e7-44be-ab72-bea656ab4958.jpg",
+            "year": 1995,
+            "length": "1h 37m",
+            "director": "Craig Brewer",
+            "synopsis": "Su único plan para el viernes es pasarse las horas muertas en el porche de su casa con su amigo Smokey, que no hace más que fumarse la marihuana que ha de vender. Durante el transcurso del día les van acompañando vecinos y amigos."
+        },
+        {
+            "id": 9,
+            "title": "Belly",
+            "poster": "https://www.justwatch.com/images/poster/303917354/s718/belly.jpg",
+            "year": 1998,
+            "length": "1h 36m",
+            "director": "Hype Williams",
+            "synopsis": "Dos amigos afroamericanos dejan atrás la pobreza de su barrio en Nueva York y se convierten en poderosos narcotraficantes."
+        },
+        {
+            "id": 10,
+            "title": "Biggie: I Got a Story to Tell",
+            "poster": "https://pics.filmaffinity.com/Notorious_B_I_G_I_Got_a_Story_to_Tell-482608387-large.jpg",
+            "year": 2021,
+            "length": "1h 37m",
+            "director": "Emmett Malloy",
+            "synopsis": "Mediante entrevistas e imágenes inéditas, este documental ahonda en la vida de The Notorious B.I.G., y se centra en su transformación de camello a rey del rap."
         }
     ]
 }
