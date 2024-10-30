@@ -19,17 +19,17 @@ fetchMoviesJson().then(movies => {
         let synopsis = movies.films[index].synopsis;
         
         moviesSection.innerHTML += `
-        <div class="card border-dark text-bg-light" style="width: 18rem;">
-  <img src="${poster}" class="card-img-top" alt="Film poster">
-  <div class="card-body text-center">
-    <h5 class="card-title mt-2">${title}</h5>
-    <p class="card-title"><span class="h6">${year}</span> - ${length}</p>
-    <p class="card-title mb-4"><span class="h7">${director}</span></p>
-    <a href="#" class="btn btn-sm btn-outline-warning mb-3">Synopsis</a>
-    
-  </div>
-</div>
-        `;
+    <div class="container2 col-6 mb-4">
+      <div class="card text-bg-dark border-light">
+                <img src="${poster}" class="card-img-top" alt="Film poster">
+        <div class="card-body text-center ">
+                <h5 class="card-title">${title}</h5>
+                <p class="card-text"><span class="h6">${year}</span> - ${length}</p>
+                <p class="card-text mb-4"><span class="h7">${director}</span></p>
+                <a href="#" class="btn btn-sm btn-light btn-outline-dark mb-3">Synopsis</a>
+        </div>
+      </div>
+    </div>       `;
     }
     //<p class="card-text">${synopsis}</p> Detrás del botón de synopsis
 });
