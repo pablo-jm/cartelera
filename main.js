@@ -20,16 +20,21 @@ fetchMoviesJson().then(movies => {
         
         moviesSection.innerHTML += `
     <div class="container2 col-6 mb-4">
-      <div class="card text-bg-dark border-light">
+      <div class="card">
                 <img src="${poster}" class="card-img-top" alt="Film poster">
         <div class="card-body text-center ">
                 <h5 class="card-title">${title}</h5>
                 <p class="card-text"><span class="h6">${year}</span> - ${length}</p>
                 <p class="card-text mb-4"><span class="h7">${director}</span></p>
-                <a href="#" class="btn btn-sm btn-light btn-outline-dark mb-3">Synopsis</a>
+        </div>
+        <div class="overlay">
+                        <div class="synopsis">${synopsis}</div>
         </div>
       </div>
     </div>       `;
     }
-    //<p class="card-text">${synopsis}</p> Detrás del botón de synopsis
 });
+
+function toggleOverlay(cardElement) {
+  cardElement.classList.toggle('active');
+}
