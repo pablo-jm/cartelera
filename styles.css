@@ -88,3 +88,44 @@ header{
     font-size: 1.2em;
     font-weight: bold;
 }
+
+.footerContainer{
+    background-color: #000;
+    color: #fff;
+    padding: 20px 0;
+    font-family: 'Sedgwick Ave';
+}
+
+.contenedorContenido{
+    display: flex;
+    justify-content: space-around;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.copy{
+    text-align: center;
+    margin-top: 60px;
+    font-size: 18px;
+}
+
+.contenedorMenuYLegal{
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.links{
+    color: #fff;
+    display: block;
+    margin-top: 20px;
+}
+
+.logoFooter{
+    width: 80px;
+    height: 80px;
+}
+
+.tituloFooter{
+    font-size: 25px;
+}
