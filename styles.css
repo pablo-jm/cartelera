@@ -85,7 +85,9 @@ header{
 }
 
 .synopsis {
-    font-size: 1.2em;
+    text-align: justify;
+    padding: 15px;
+    font-size: 19px;
     font-weight: bold;
 }
 
